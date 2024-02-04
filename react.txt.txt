@@ -1,0 +1,15 @@
+routing✅
+signin in sign up (styling and state)✅
+useRef to tsake inputs✅
+email and pass and name validation using regex with custom hook✅ 
+firebase setup✅
+setup auth with firebase✅
+configure redux 
+logic for signin and sign out with navigation✅
+update auth with name and display it near signout✅
+adding constant file✅
+tmdb api integeration✅
+main video container designer
+
+
+
